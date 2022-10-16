@@ -1,4 +1,4 @@
-# Project_1_Dashboard
+# DDK_Portfolio_Analyzer
 
 ## Project Overview
 We‘re developing our first financial application, a portfolio-analyzer using python and its libraries. 
